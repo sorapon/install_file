@@ -1,0 +1,11 @@
+初期設定
+
+1,terminatorのインストール
+sudo apt-get install terminator
+
+2,gitのインストール
+sudo apt-get install git
+
+3,slack
+公式サイトから！
+https://slack.com/intl/ja-jp/downloads/linux
